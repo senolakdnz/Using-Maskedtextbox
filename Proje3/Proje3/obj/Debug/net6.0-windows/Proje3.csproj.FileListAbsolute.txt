@@ -1,0 +1,17 @@
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\bin\Debug\net6.0-windows\Proje3.exe
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\bin\Debug\net6.0-windows\Proje3.deps.json
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\bin\Debug\net6.0-windows\Proje3.runtimeconfig.json
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\bin\Debug\net6.0-windows\Proje3.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\bin\Debug\net6.0-windows\Proje3.pdb
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\obj\Debug\net6.0-windows\Proje3.csproj.AssemblyReference.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\obj\Debug\net6.0-windows\Proje3.Form1.resources
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\obj\Debug\net6.0-windows\Proje3.csproj.GenerateResource.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\obj\Debug\net6.0-windows\Proje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\obj\Debug\net6.0-windows\Proje3.AssemblyInfoInputs.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\obj\Debug\net6.0-windows\Proje3.AssemblyInfo.cs
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\obj\Debug\net6.0-windows\Proje3.csproj.CoreCompileInputs.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\obj\Debug\net6.0-windows\Proje3.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\obj\Debug\net6.0-windows\refint\Proje3.dll
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\obj\Debug\net6.0-windows\Proje3.pdb
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\obj\Debug\net6.0-windows\Proje3.genruntimeconfig.cache
+C:\Users\senol\OneDrive\Masaüstü\Şenol\Projelerim\Proje3\Proje3\obj\Debug\net6.0-windows\ref\Proje3.dll
